@@ -2,7 +2,7 @@
 using EnumeracoesCalculoFuncionario.Entities.Enums;
 using EnumeracoesCalculoFuncionario.Entities;
 using System.Globalization;
-
+//Alteração
 namespace EnumeracoesCalculoFuncionario
 {
     internal class Program
